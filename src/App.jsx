@@ -14,6 +14,7 @@ function App() {
         • Albert Einstein: "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking."
 
         • Ralph Waldo Emerson: "Our greatest glory is not in never failing, but in rising up every time we fail."
+        text text
       </p>
 
       <p style={{
